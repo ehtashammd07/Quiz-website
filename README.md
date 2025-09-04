@@ -25,6 +25,7 @@ It’s more than just a quiz—it’s a practice ground for frontend development
 🔹 Score summary with replay option
 🔹 Responsive design optimized for all devices
 🔹 Interactive hover & focus states
+
 🔹 Bonus: Light/Dark theme toggle 🌙☀️
 
 🛠 Tech Stack
