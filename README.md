@@ -1,43 +1,35 @@
-#  Frontend quiz app solution
+🎯 Frontend Quiz App
 
-This is a solution to the [Frontend quiz app challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+An interactive web application that lets users test their knowledge across multiple subjects through fun and engaging quizzes. The app provides real-time feedback, tracks scores, and adapts seamlessly to any screen size.
 
-## Table of contents
+📑 Table of Contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+About the Project
+Features
+Tech Stack
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+📘 About the Project
 
-## Overview
+The Frontend Quiz App was built as part of a coding challenge. The goal was to replicate a realistic project workflow by:
+Designing a responsive interface
+Handling user interaction logic
+Managing state for quiz progression and scoring
+It’s more than just a quiz—it’s a practice ground for frontend development skills like responsiveness, accessibility, and clean component architecture.
 
-### The challenge
+✨ Features
 
-Users should be able to:
+🔹 Choose a quiz subject before starting
+🔹 Answer multiple-choice questions with instant validation
+🔹 Error handling for unanswered submissions
+🔹 Feedback on correct and incorrect answers
+🔹 Score summary with replay option
+🔹 Responsive design optimized for all devices
+🔹 Interactive hover & focus states
+🔹 Bonus: Light/Dark theme toggle 🌙☀️
 
-- Select a quiz subject
-- Select a single answer from each question from a choice of four
-- See an error message when trying to submit an answer without making a selection
-- See if they have made a correct or incorrect choice when they submit an answer
-- Move on to the next question after seeing the question result
-- See a completed state with the score after the final question
-- Play again to choose another subject
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: Change the app's theme between light and dark
+🛠 Tech Stack
 
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- Flexbox
-- CSS Grid
-- [React](https://reactjs.org/) - JS library
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
-
+HTML5 – Semantic structure
+CSS3 / TailwindCSS – Styling and responsiveness
+Flexbox & CSS Grid – Layout
+React.js – Component-based UI & state management
